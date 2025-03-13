@@ -1,7 +1,7 @@
 let titles_type = ["Dataset", "Survey", "Review", "Overview"];
 let titles_keys = ["AI", "LLM", "Large Language Modal"];
 let titles_applications = ["access control", "traffic", "external tools", "watermark", "fingerprint"];
-let titles =  titles_model + titles_keys + titles_applications;
+let titles =  titles_type + titles_keys + titles_applications;
 let authors_array = [];
 
 let conferences = [
