@@ -1,6 +1,6 @@
 let titles_type = ["Dataset", "Survey", "Review", "Overview"];
-let titles_keys = ["MCP", "Model Context Protocol", "LLM", "Large Language Modal","Agent"];
-let titles_applications = ["agent", "multi agent", "mcp"];
+let titles_keys = ["agent access control", "agent security", "LLM", "Large Language Modal","agent"];
+let titles_applications = ["agent", "multi agent"];
 let titles =  titles_type + titles_keys + titles_applications;
 let authors_array = [];
 
